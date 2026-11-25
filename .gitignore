@@ -1,0 +1,5 @@
+config.py
+.vscode/
+.micropico
+__pycache__/
+umqtt/
